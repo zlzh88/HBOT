@@ -3,7 +3,7 @@
 
 <br/>
 
-## 프로젝트 목표
+## Project Goal
 
     - 챗봇 내에서 다양한 정보들을 한눈에 알아볼 수 있도록 제공
     - 자연스러운 인터페이스인 '대화'를 이용하여 코로나 관련 정보를 '챗봇' 형식으로 제공
@@ -11,4 +11,8 @@
 
 <hr/>
 
-## 
+### Used Open Source
+
+   - [좌표 기준 공적 마스크 판매정보 제공 서비스](https://app.swaggerhub.com/apis-docs/Promptech/public-mask-info/20200307-oas3#/Sale) 
+   - [Selenium](https://github.com/SeleniumHQ/selenium)
+   - 카카오맵 API
